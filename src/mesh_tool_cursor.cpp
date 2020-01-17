@@ -13,7 +13,7 @@
 #include <rviz/mesh_loader.h>
 
 const static std::string COLOR_NAME = "mesh_cursor_tool_color";
-const static std::string DEFAULT_MESH_RESOURCE = "package://rviz_tool_cursor/resources/default.stl";
+const static std::string DEFAULT_MESH_RESOURCE = "package://rviz_tool_cursor/resources/smaller.stl";
 
 namespace rviz_tool_cursor
 {
